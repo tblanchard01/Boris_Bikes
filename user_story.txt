@@ -1,0 +1,10 @@
+As a person, So that I can use a bike, I'd like a docking station to release a bike.
+nouns = person, bike, docking station.
+verbs = use, release
+
+As a person, So that I can use a good bike, I'd like to see if a bike is working
+nouns = person bike, 
+verbs = use, see if bike is working.
+
+Bike <-- working? --> true/false
+DockingStation <-- release_bike --> a Bike
